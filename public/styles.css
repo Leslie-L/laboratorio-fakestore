@@ -34,7 +34,7 @@ body {
 
 .Card img {
   width: 100%;
-  height: auto;
+  height: 300px;
   border-radius: 5px 5px 0 0;
 }
 
